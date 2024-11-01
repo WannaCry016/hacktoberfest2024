@@ -21,8 +21,19 @@ Run the following commands from the root of the project directory:
 Open your forked repo in your browser and then raise a PR to the `master` branch of this repository!
 
 
+# How to contribute to this project
 
-## Contributing
+## Choose from these tasks
 
-To start contributing, check out [CONTRIBUTING.md]. New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as `easy` or `good-first-issue` Check out issues labelled as `hacktoberfest` if you are up for some grabs! :) 
+### 1. Add your name
+
+Add your name to the `CONTRIBUTING.md` file using the below convention:
+
+```markdown
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
 
